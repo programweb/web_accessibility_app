@@ -1,0 +1,30 @@
+version: "3.7"
+
+services:
+#  servicea: # rm was observatory-service; uppercase characters are not valid as part of an image name
+#    build: ./service  # path is relative to docker-compose.yml localtion
+#    volumes:
+#      - ./service:/usr/src/app # mount point
+#    ports:
+#      - 5001:80  # host:container
+  dashboard:
+    build: .
+    ports:
+      - "4001:4000"
+      - "3001:3000"
+    networks:
+      - intern
+  mongodb:
+    image: mongo:3.6
+    ports:
+      - "27017"
+    networks:
+      - intern
+    volumes:
+      - data:/data
+
+volumes:
+  data:
+
+networks:
+  intern:
