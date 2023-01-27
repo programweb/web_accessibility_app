@@ -1,8 +1,14 @@
 # Web Accessibility App
 Using: Docker MongoDB NoSQL Python Flask Node PostgreSQL JavaScript jQuery npm HTML_CodeSniffer Pa11y
 
+
+A Node.js with a NoSQL Database (MongoDB) app running in a Docker Container.  The Pa11y app uses both MongoDB and Node.js.
 ![Screen Shot 2023-01-27 at 1 40 06 PM](https://user-images.githubusercontent.com/12736699/215224147-790787c4-0f76-472a-961d-4ac896232aa0.png)
+
+2
 ![Screen Shot 2023-01-27 at 2 22 33 PM](https://user-images.githubusercontent.com/12736699/215224148-0ef88124-fb44-4d9b-82c2-75ce88eda7e4.png)
+
+3
 ![Screen Shot 2023-01-27 at 2 24 21 PM](https://user-images.githubusercontent.com/12736699/215224153-f7130d42-3b59-4915-8979-e33a9a0c8c66.png)
 
 A
