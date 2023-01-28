@@ -13,7 +13,11 @@ These are the Flask template files for front-end code which is neatly separated 
 A Node.js with a NoSQL Database (MongoDB) app running in a Docker Container.  The Pa11y app uses both MongoDB and Node.js.
 ![Screen Shot 2023-01-27 at 1 40 06 PM](https://user-images.githubusercontent.com/12736699/215224147-790787c4-0f76-472a-961d-4ac896232aa0.png)
 
-startpostgresql here
+
+
+Start the PostgreSQL Database (I use a terminal window)
+
+
 
 I wrote a Python/Flask app that ties together a NoSQL and Relational Database.
 Start a Python/Flask Web application which does CRUD operations on both the MongoDB and PostgreSQL Databases.
