@@ -67,3 +67,28 @@ Edit notes (saves to PostGreSQL database)
 <img width="1315" alt="Screen Shot 2023-01-27 at 2 39 36 PM" src="https://user-images.githubusercontent.com/12736699/215224172-79baf5b7-982c-4e0c-a394-867dc73c0961.png">
 
 
+Docker - a way to package a whole system (servers, database, code, etc. in container(s) 
+
+MongoDB - probably the most famous NoSQL database.
+
+NoSQL - a type of database that is not so heavily relational
+
+Python - main server-side code that I wrote in for this project
+
+Flask - templating code to allow Python to serve web services or web pages.  In this app, I am using it mostly for the web pages.
+
+Node - aka node.js; a fast, server-side JavaScript language.
+
+PostgreSQL - open-source relational database
+
+JavaScript - I use it for client-side scripting yet it is also a part of node.js and mongodb
+
+jQuery - a well-documented JavaScript Library that hides the complexity of dealing with various browsers and browser versions from JavaScript; plus, it has a lot of nice out-of-the box features.  I use it in this app for these things 
+
+npm - the Node Package Manager, the world's largest software registry
+
+HTML_CodeSniffer - an application that Pa11y wraps/uses
+
+Pa11y - the application my application wraps/uses
+
+
