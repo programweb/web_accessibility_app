@@ -2,6 +2,14 @@
 Using: Docker MongoDB NoSQL Python Flask Node PostgreSQL JavaScript jQuery npm HTML_CodeSniffer Pa11y
 
 
+Directory I built with Dockerfile, docker-compose.yml, Python files, Flask files (in templates directory), CSS/JS/Images go in the static directory.
+![Screen Shot 2023-01-27 at 2 59 21 PM](https://user-images.githubusercontent.com/12736699/215224177-7c9d423b-bae3-40a0-bf5e-dacdc9a813d2.png)
+
+
+These are the Flask template files for front-end code which is neatly separated from the Python.
+<img width="210" alt="Screen Shot 2023-01-27 at 3 06 43 PM" src="https://user-images.githubusercontent.com/12736699/215224178-8f161adf-56ef-4b0e-b17d-726893715236.png">
+
+
 A Node.js with a NoSQL Database (MongoDB) app running in a Docker Container.  The Pa11y app uses both MongoDB and Node.js.
 ![Screen Shot 2023-01-27 at 1 40 06 PM](https://user-images.githubusercontent.com/12736699/215224147-790787c4-0f76-472a-961d-4ac896232aa0.png)
 
@@ -37,22 +45,18 @@ Show all tests page where any saved (saved to the PostgreSQL database) notes and
 <img width="1287" alt="Screen Shot 2023-01-27 at 2 39 08 PM" src="https://user-images.githubusercontent.com/12736699/215224170-9422506d-843e-4f07-a673-b42b19e63eb3.png">
 
 
-G
+Edit notes (saves to PostGreSQL database)
 <img width="1315" alt="Screen Shot 2023-01-27 at 2 39 36 PM" src="https://user-images.githubusercontent.com/12736699/215224172-79baf5b7-982c-4e0c-a394-867dc73c0961.png">
 
 
-H
+Tabulated (3 tabs), Paginated, column order-able, test results for one URL which had 58 errors, 19 warnings and 212 notices.   The results are also searchable. Data pulled from the NoSQL MongoDB Database.
 <img width="1377" alt="Screen Shot 2023-01-27 at 2 40 27 PM" src="https://user-images.githubusercontent.com/12736699/215224173-3384b1bf-65a7-41db-8e04-84122eb79300.png">
 
 
-I
+Clicking an error in the sortable table above displays more detailed information about the error and notes/solutions you saved earlier.   Even if it is a brand new test, you see your notes and custom solutions for matching error codes.
 <img width="1380" alt="Screen Shot 2023-01-27 at 2 40 39 PM" src="https://user-images.githubusercontent.com/12736699/215224175-59e8b915-08fd-4f3b-9d1b-629e66b792fc.png">
 
-J
-![Screen Shot 2023-01-27 at 2 59 21 PM](https://user-images.githubusercontent.com/12736699/215224177-7c9d423b-bae3-40a0-bf5e-dacdc9a813d2.png)
 
 
-K
-<img width="210" alt="Screen Shot 2023-01-27 at 3 06 43 PM" src="https://user-images.githubusercontent.com/12736699/215224178-8f161adf-56ef-4b0e-b17d-726893715236.png">
 
 
