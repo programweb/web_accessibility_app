@@ -6,7 +6,7 @@ Directory I built with Dockerfile, docker-compose.yml, Python files, Flask files
 ![Screen Shot 2023-01-27 at 2 59 21 PM](https://user-images.githubusercontent.com/12736699/215224177-7c9d423b-bae3-40a0-bf5e-dacdc9a813d2.png)
 
 
-These are the Flask template files for front-end code which is neatly separated from the Python.
+These are the Flask template files for front-end code which is neatly separated from the Python.  
 <img width="210" alt="Screen Shot 2023-01-27 at 3 06 43 PM" src="https://user-images.githubusercontent.com/12736699/215224178-8f161adf-56ef-4b0e-b17d-726893715236.png">
 
 
